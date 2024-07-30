@@ -15,6 +15,7 @@ decreasing ammo
 
 4,
 adding ammo when actor on specific location
+![Screenshot 2024-07-30 121731](https://github.com/user-attachments/assets/12a607ff-5b0f-4b6d-a6cc-d56719172bcf)
 
 
 
