@@ -17,7 +17,11 @@ decreasing ammo
 adding ammo when actor on specific location
 ![Screenshot 2024-07-30 121731](https://github.com/user-attachments/assets/12a607ff-5b0f-4b6d-a6cc-d56719172bcf)
 
+5,
+showing the projectile name and nums of bullet
+![Screenshot 2024-07-30 123301](https://github.com/user-attachments/assets/67d2c95e-ea1c-4bd5-a2a0-7ff2ea801f44)
 
 
-
+6,
+gameplay:
 https://github.com/user-attachments/assets/b519a637-9c7e-48d6-b571-34140534cfab
