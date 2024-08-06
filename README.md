@@ -24,4 +24,8 @@ showing the projectile name and nums of bullet
 
 6,
 gameplay:
-https://github.com/user-attachments/assets/b519a637-9c7e-48d6-b571-34140534cfab
+
+
+https://github.com/user-attachments/assets/cfec6bba-1f2b-43c7-8c09-b4bd30717be9
+
+
